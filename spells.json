@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Lumos",
+        "type": "Charm",
+        "difficulty": "Easy"
+    },
+    {
+        "name": "Expelliarmus",
+        "type": "Defense",
+        "difficulty": "Medium"
+    }
+]
