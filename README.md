@@ -1,6 +1,4 @@
 # 🪄 Hogwarts Spell Inventory Manager
-A Python-based spell management system demonstrating object-oriented programming, file handling, and data organization.
-
 
 A Python command-line application that allows users to manage a wizard's spell collection.
 
